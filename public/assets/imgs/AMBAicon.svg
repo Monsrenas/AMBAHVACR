@@ -3,8 +3,8 @@
 
 <svg
    width="36mm"
-   height="38mm"
-   viewBox="0 0 36 38"
+   height="32mm"
+   viewBox="0 0 36 32"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.56"
-     inkscape:cx="89.453125"
-     inkscape:cy="86.914062"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="34.250485"
+     inkscape:cy="24.583009"
      inkscape:window-width="1304"
      inkscape:window-height="704"
      inkscape:window-x="0"
@@ -46,17 +46,17 @@
        style="fill:#ff6211;fill-opacity:1;stroke-width:0.0485592"
        inkscape:transform-center-x="3.8865097"
        inkscape:transform-center-y="-0.075390963"
-       d="M 18.115958,26.268387 1.5514685,21.681505 18.13283,0.0465736 Z"
+       d="M 17.895639,26.7483 1.3311492,22.161418 17.912511,0.52648618 Z"
        sodipodi:nodetypes="cccc" /><path
        id="path651"
        style="fill:#0097be;fill-opacity:1;stroke-width:0.0485592"
        inkscape:transform-center-x="-3.8865095"
        inkscape:transform-center-y="-0.075391039"
-       d="M 18.514585,26.292268 35.079074,21.705385 18.49771,0.0704552 Z"
+       d="M 18.294266,26.772181 34.858755,22.185298 18.277391,0.55036778 Z"
        sodipodi:nodetypes="cccc" /><path
        id="path1188"
        style="fill:#666666;stroke-width:0.0485592"
-       d="m 30.554447,23.249243 5.691938,1.965919 -18.145823,5.818311 -17.9494412,-6.018376 5.461804,-1.860574 12.8399182,3.592886 z"
+       d="M 30.334128,23.729156 36.026066,25.695075 17.880243,31.513386 -0.06919847,25.49501 5.3926055,23.634436 18.232524,27.227322 Z"
        sodipodi:nodetypes="ccccccc" /><text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -73,16 +73,6 @@
          x="47.794239"
          y="184.05853" /></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.07187px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.0485592"
-       x="0.24954987"
-       y="35.121975"
-       id="text1364"><tspan
-         sodipodi:role="line"
-         id="tspan1362"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.5322px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.0485592"
-         x="0.24954987"
-         y="35.121975">AMBA HVAC/R </tspan></text><text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
        x="11.64173"
        y="215.59612"
@@ -91,14 +81,4 @@
          id="tspan1518"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="11.64173"
-         y="215.59612" /></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.07187px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.0485592"
-       x="0.091873646"
-       y="38.011715"
-       id="text1524"><tspan
-         sodipodi:role="line"
-         id="tspan1522"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.04305px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0485592"
-         x="0.091873646"
-         y="38.011715">PROFESSIONALS.LLC</tspan></text></g></svg>
+         y="215.59612" /></text></g></svg>

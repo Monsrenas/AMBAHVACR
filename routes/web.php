@@ -16,3 +16,18 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('vehicle', function () {
+    return view('vehicle');
+});
+
+Route::get('/modalview','App\Http\Controllers\VistasControllers@modalview');
+
+
+Route::group(['middleware' => ['web']], function () {
+
+		Route::get('lang/{lang}', function ($lang) {	
+						        session(['lang' => $lang]);
+						        return \Redirect::back();
+						    })->where(['lang' => 'en|es']);
+});

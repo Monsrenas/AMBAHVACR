@@ -76,7 +76,32 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  
 }
+
+/*Agregaciones al original*/
+.amba-icon {
+  text-align: center; 
+  margin-bottom: -12px;
+}
+.icon-text {
+     font-size: .6em;
+     text-align: center; 
+     padding:0%; 
+     margin: 0 auto;
+     margin-top: 60px;
+     margin-bottom: -10px
+}
+
+.icon-subtext {
+  font-size: .8em;
+  text-align: center; 
+  padding:0%;   
+  margin: 0 auto;
+}
+
+/*------------------------*/
+
 
 [tabindex="-1"]:focus {
   outline: 0 !important;
@@ -11689,6 +11714,9 @@ pre .code {
 
 .section {
   padding: 60px 10px;
+  scroll-margin-block-start: 60px;
+  scroll-margin-inline-start: 60px;
+  scroll-margin-top: 60px;
 }
 
 .section:nth-child(odd) {

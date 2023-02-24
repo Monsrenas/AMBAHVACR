@@ -25,7 +25,7 @@ input[type="radio"]:checked ~ label {
 
             <div class="col-md-4 col-xs-5 parrafo">
               <div style="float: none;">
-              <h3>{{trans('welcome.comoevalua')}}</h3> 
+              <h6>{{trans('index.howdoyouevaluateit')}}</h6> 
               </div>
               <form method="post" style="color:black;" action="{{url('/RegistraTestimonio')}}" autocomplete="off" id="SendEval">
                 @csrf 
@@ -42,12 +42,12 @@ input[type="radio"]:checked ~ label {
                 --><label for="radio5">★</label>
                 </p>
                 
-                <input name="nombre" type="text" id="usuario" placeholder="nombre" required="" class="form-control">
+                <input name="nombre" type="text" id="usuario" placeholder="{{trans("index.name")}}" required="" class="form-control">
                 
-                <input name="localidad" type="text" id="lugar" placeholder="localidad" required="" class="form-control">
+                <input name="localidad" type="text" id="lugar" placeholder="{{trans("index.location")}}" required="" class="form-control">
                  
-                <textarea style="overflow: hidden;" rows="4" cols="30" name="mensaje" placeholder="testimonio" class="textarea"></textarea>
-                <p id="" ><input type="submit" id="submit" name="submit" value="{{trans('welcome.send')}}" class="boton"></p>
+                <textarea style="overflow: hidden;" rows="4" cols="30" name="mensaje" placeholder="{{trans("index.testmonialMSG")}}" class="textarea"></textarea>
+                <p id="" ><input type="submit" id="submit" name="submit" value="{{trans('index.send')}}" class="boton"></p>
               </form>
               </div>
 
